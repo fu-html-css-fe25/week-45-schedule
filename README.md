@@ -6,6 +6,8 @@
 Allt fler besöker webben via mobilen – därför måste våra sajter fungera på olika skärmstorlekar. 
 Den här veckan lär vi oss grunderna i responsiv design, med fokus på media queries, flexibla enheter och mobilanpassad layout. Vi tränar på att bygga sidor som känns lika självklara oavsett om de visas på en laptop, surfplatta eller telefon.
 
+För att boka in er på veckans **obligatoriska** grupphandledning och Code Review, [klicka här](https://docs.google.com/spreadsheets/d/1hLdFF6WTAaRsg7mScfCOrVpmdqKtFgJSj6UgsksNigw/edit?usp=sharing).
+
 
 ## Mål för veckan:
 1. Förstå vad responsivitet innebär
