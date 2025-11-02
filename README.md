@@ -41,4 +41,5 @@ Den här veckan lär vi oss grunderna i responsiv design, med fokus på media qu
 
 ### Övningar
 * [Responsive Layout Bootcamp](https://github.com/fu-html-css-fe25/week-45-exercise-responsive-layout-bootcamp)
-* [Media Queries Bootcamp](https://github.com/fu-html-css-fe25/week-45-exercise-media-queries-bootcamp/tree/main) - Veckan Code Review-uppgift!
+* [Media Queries Bootcamp](https://github.com/fu-html-css-fe25/week-45-exercise-media-queries-bootcamp/tree/main)
+* [Poster Shop](https://github.com/fu-html-css-fe25/week-45-exercise-poster-shop/tree/main) - Veckans Code Review-uppgift!
