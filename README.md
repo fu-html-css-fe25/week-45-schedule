@@ -19,11 +19,13 @@ Under onsdagens lektion kommer vi ha ett repetitionstillfälle. Förslag på sak
 ## Resurser
 
 ### Presentationer
-* [4 nov, Responsivitet]()
+* [4 nov, Responsivitet](https://docs.google.com/presentation/d/1usJdUiG50_Zqacqjp-chAMa6bCh3U9NS/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
 ### Lektionsrepon
+
+* [3 nov]()
 
 
 ### Filmer
@@ -40,9 +42,10 @@ Under onsdagens lektion kommer vi ha ett repetitionstillfälle. Förslag på sak
 
 
 ### Övningar
-* [Responsive Design Bootcamp]()
-* [Media Queries Bootcamp]()
+* [Responsive Design Bootcamp](https://github.com/fu-html-css-fe25/week-45-exercise-responsive-layout-bootcamp)
+* [Media Queries Bootcamp](https://github.com/fu-html-css-fe25/week-45-exercise-media-queries-bootcamp/tree/main) - Veckan Code Review-uppgift!
 
 
 
 
+ nov
