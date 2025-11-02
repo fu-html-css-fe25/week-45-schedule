@@ -8,6 +8,8 @@ Den här veckan lär vi oss grunderna i responsiv design, med fokus på media qu
 
 För att boka in er på veckans **obligatoriska** grupphandledning och Code Review, [klicka här](https://docs.google.com/spreadsheets/d/1hLdFF6WTAaRsg7mScfCOrVpmdqKtFgJSj6UgsksNigw/edit?usp=sharing).
 
+Stödpunkter för att skriva gruppkontrakt [hittar ni här](https://docs.google.com/document/d/1XAzNHmpk6upNjnFY82lmGc4Z3tLr_32C/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+
 
 ## Mål för veckan:
 1. Förstå vad responsivitet innebär
