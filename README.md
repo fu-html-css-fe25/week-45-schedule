@@ -6,8 +6,6 @@
 Allt fler besöker webben via mobilen – därför måste våra sajter fungera på olika skärmstorlekar. 
 Den här veckan lär vi oss grunderna i responsiv design, med fokus på media queries, flexibla enheter och mobilanpassad layout. Vi tränar på att bygga sidor som känns lika självklara oavsett om de visas på en laptop, surfplatta eller telefon.
 
-Under onsdagens lektion kommer vi ha ett repetitionstillfälle. Förslag på saker som ni vill repetera mottages tacksamt! 
-
 
 ## Mål för veckan:
 1. Förstå vad responsivitet innebär
@@ -19,7 +17,7 @@ Under onsdagens lektion kommer vi ha ett repetitionstillfälle. Förslag på sak
 ## Resurser
 
 ### Presentationer
-* [4 nov, Responsivitet](https://docs.google.com/presentation/d/1usJdUiG50_Zqacqjp-chAMa6bCh3U9NS/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Responsivitet](https://docs.google.com/presentation/d/1usJdUiG50_Zqacqjp-chAMa6bCh3U9NS/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
