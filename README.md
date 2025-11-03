@@ -25,6 +25,9 @@ Stödpunkter för att skriva gruppkontrakt [hittar ni här](https://docs.google.
 
 ### Inspelade föreläsningar
 
+* [Responsivitet del 1, 3 nov](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EbeTb_xE9eBLnPFOUanu4EoBmOI3m8CYzcnac38_0dFE-w?e=GXqIWv)
+* [Responsivitet del 2, 3 nov](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/Ef8UkvvZ73RMkLZZNLW5pFcBm0XgFd5vyufEkb4GEW0SKQ?e=ZbGvPG)
+
 ### Lektionsrepon
 
 * [3 nov]()
