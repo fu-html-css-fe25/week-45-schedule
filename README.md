@@ -32,6 +32,7 @@ Stödpunkter för att skriva gruppkontrakt [hittar ni här](https://docs.google.
 ### Lektionsrepon
 
 * [3 nov](https://github.com/fu-html-css-fe25/week-45-lecture-3-nov)
+* [5 nov](https://github.com/fu-html-css-fe25/week-45-lecture-5-nov)
 
 
 ### Filmer
